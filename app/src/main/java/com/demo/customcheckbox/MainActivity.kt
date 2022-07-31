@@ -124,6 +124,5 @@ fun CustomCheckBox(){
             modifier = Modifier
                 .padding(start = 5.dp)
                 .align(CenterVertically))
-
     }
 }
