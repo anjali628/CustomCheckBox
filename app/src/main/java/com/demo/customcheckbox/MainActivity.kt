@@ -119,7 +119,6 @@ fun CustomCheckBox(){
 
             }
         }
-
         Text(text = "Accept all terms and conditions",
             modifier = Modifier
                 .padding(start = 5.dp)
