@@ -104,7 +104,10 @@ fun CustomCheckBox(){
             backgroundColor = Color.White,
             border = BorderStroke(1.dp, Color.Black)
         )
+
         {
+
+
             Box(modifier = Modifier
                 .background(
                     if (isChecked) Color.Green else Color.White
